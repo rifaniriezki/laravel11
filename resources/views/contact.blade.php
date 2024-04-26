@@ -14,7 +14,14 @@
     <a href="/blog">Blog</a>
     <a href="/contact">Contact</a>
     <h1>Contact Saya</h1>
-    <a href="https://www.instagram.com/rifaniriezki/" target="_blank">Instagram</a>
+    <ul>
+        <li>
+            <a href="https://www.instagram.com/rifaniriezki/" target="_blank">Instagram</a>
+        </li>
+        <li>
+            <a href="https://rifaniriezki.com/" target="_blank">Website</a>
+        </li>
+    </ul>
 </body>
 
 </html>
